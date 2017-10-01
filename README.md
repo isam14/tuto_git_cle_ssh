@@ -1,6 +1,6 @@
 # tutoriel d'installation git et clé ssh
 
->**NOTE:**  Pour linux ubuntu
+>**NOTE:**  Pour linux ubuntu chacune des commandes est a faire dans la terminal
 
 
 
